@@ -1,0 +1,7 @@
+{
+  "name": "reactjs-example",
+  "devDependencies" : {
+    "browserify": "~> 6.3",
+    "coffeeify" : "~> 0.6"
+  }
+}
